@@ -1,0 +1,6 @@
+{
+  "name": "Stock bot for slack in Node.js",
+  "description": "A barebones Node.js app using Express",
+  "repository": "https://github.com/hexwick/stockbot",
+  "keywords": ["node", "express", "request", "body-parser"]
+}
