@@ -17,7 +17,7 @@ Other things to include:
 
 ## Dependencies
 
- - [request](https://www.npmjs.com/package/request) `npm install request`
+ - [body-parser](https://www.npmjs.com/package/body-parser) `npm install body-parser`
  - [express](https://www.npmjs.com/package/express) `npm install express`
  - [request](https://www.npmjs.com/package/request) `npm install request`
  - [Node.js](https://nodejs.org/en/download/)
@@ -30,7 +30,7 @@ Other things to include:
 This app pulls from [markitondemand's](http://dev.markitondemand.com/MODApis/) api.
 It also posts a link from [Google Finance](https://www.google.com/finance).
 
-I also recommend checking out [devdactic's](https://devdactic.com/first-slackbot/) blogpost for help as well.
+For deploying to heroku and configuring slack, I recommend checking out [devdactic's](https://devdactic.com/first-slackbot/) blogpost for help as well.
 
 ## Known issues
 
