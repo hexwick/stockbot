@@ -1,2 +1,2 @@
 # stockbot
-Stock Bot
+Basic Node.js server for posting Stock prices
